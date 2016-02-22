@@ -1,0 +1,62 @@
+table {
+    
+    height: 600px;
+    }
+
+td {
+    border: 8px solid #000;
+}
+
+.a1 {
+   height: 46px;
+   width: 116px;
+}
+
+.a2 {
+   height: 46px;
+   width: 20px; 
+}
+
+.a3 {
+   height: 46px;
+   width: 164px;
+   background-color: #fff56e;
+}
+
+.b1 {
+   height: 128px;
+   width: 46px; 
+}
+
+.b2 {
+   height: 270px;
+   width: 270px;
+   background-color: #ff583e;
+}
+
+.b3 {
+   height: 135px;
+   width: 165px;
+   background-color: #fff56e;
+}
+
+.d1 {
+   height: 20px;
+   width: 46px;
+   background-color: #fff56e; 
+}
+
+.d2 {
+   background-color: #124e8e;
+}
+
+.d3 {
+    height: 30px;
+    background-color: #000;
+}
+
+.c1 {
+   height: 80px;
+   width: 15px;
+   background-color: #000; 
+}
