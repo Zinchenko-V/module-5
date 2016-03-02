@@ -26,10 +26,8 @@ body {
 
 .menu-head {
     height: 36px;
-    width: 1000px;
     position: relative;
-    left: 50%;
-    margin-left: -500px; 
+    right: 25px;
 }
 
 .cont-1 {
@@ -229,7 +227,7 @@ body {
      background: linear-gradient(to top, #2e7ac4, #50aedb, #67c6e6);
 }
 
-.futer {
+.help-text {
     position: absolute;
     bottom: 20px;
     left: 50%;
